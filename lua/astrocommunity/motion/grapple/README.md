@@ -1,4 +1,4 @@
-# Harpoon
+# Grapple
 
 **Repository:** <https://github.com/cbochs/grapple.nvim>
 
